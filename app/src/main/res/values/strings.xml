@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleverTapDemo</string>
+    <string name="raise_test_event">Raise TEST Event</string>
+</resources>
